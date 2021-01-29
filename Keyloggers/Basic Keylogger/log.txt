@@ -1,9 +1,0 @@
-Key.ctrl_l\x03Key.ctrl_l\x16Key.ctrl_l
-Key.ctrl_l
-Key.shiftWhats up bro
-logKey.down
-hjiohsosh
-a
-rg
-harg
-garuhaglog
